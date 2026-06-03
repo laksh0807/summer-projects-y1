@@ -13,10 +13,10 @@ A rigorous, deep dive into core software architecture, foundational mathematics,
 
 ### Phase 2: Numerical Linear Algebra from Scratch
 - [x] Matrix operations, vector spaces, and elimination mechanics
-- [x] Custom **QR Decomposition** implementation
-- [x] Custom **Least Squares Approximation** solver
-- [x] Matrix **Rank Computing** algorithm
-- [ ] **Eigenvalues & Eigenvectors** engine *(In Progress)*
+- [x] Custom QR Decomposition implementation
+- [x] Custom Least Squares Approximation solver
+- [x] Matrix Rank Computing algorithm
+- [ ] Eigenvalues & Eigenvectors engine *(In Progress)*
 - [ ] Singular Value Decomposition (SVD) & Principal Component Analysis (PCA)
 
 ### Phase 3: Advanced Data Structures & Algorithms
@@ -60,7 +60,7 @@ A rigorous, deep dive into core software architecture, foundational mathematics,
 
 ---
 
-## 🛠️ Infrastructure & Setup
+## Infrastructure & Setup
 
 1. **Clone the repository:**
    ```bash
@@ -79,8 +79,8 @@ A rigorous, deep dive into core software architecture, foundational mathematics,
    pip install -r requirements.txt
    ```
 
-## 🧮 Comprehensive Tech Stack
-* **Language:** Python 3.x
+## Comprehensive Tech Stack
+* **Language:** Python 3.14.5
 * **Core Computational Stack:** NumPy, SciPy, Pandas, Statsmodels
 * **Visualization Engines:** Matplotlib, Seaborn
 * **Data Ingestion:** yfinance, Relational SQL Engines
