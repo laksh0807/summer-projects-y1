@@ -16,8 +16,8 @@ A rigorous, deep dive into core software architecture, foundational mathematics,
 - [x] Custom QR Decomposition implementation
 - [x] Custom Least Squares Approximation solver
 - [x] Matrix Rank Computing algorithm
-- [ ] Eigenvalues & Eigenvectors engine *(In Progress)*
-- [ ] Singular Value Decomposition (SVD) & Principal Component Analysis (PCA)
+- [x] Eigenvalues & Eigenvectors engine
+- [ ] Singular Value Decomposition (SVD) & Principal Component Analysis (PCA) *(In Progress)*
 
 ### Phase 3: Advanced Data Structures & Algorithms
 - [ ] Algorithmic Big-O time and space complexity modeling
