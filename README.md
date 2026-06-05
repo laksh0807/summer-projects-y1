@@ -64,8 +64,8 @@ A rigorous, deep dive into core software architecture, foundational mathematics,
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/laksh0807/summer-projects
-   cd summer-projects
+   git clone https://github.com/laksh0807/summer-projects-y1
+   cd summer-projects-y1
    ```
 
 2. **Initialize a secure Virtual Environment:**
