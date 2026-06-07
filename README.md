@@ -17,9 +17,9 @@ A rigorous, deep dive into core software architecture, foundational mathematics,
 - [x] Custom Least Squares Approximation solver
 - [x] Matrix Rank Computing algorithm
 - [x] Eigenvalues & Eigenvectors engine
-- [ ] Singular Value Decomposition (SVD) & Principal Component Analysis (PCA) *(In Progress)*
+- [x] Singular Value Decomposition (SVD) & Principal Component Analysis (PCA)
 
-### Phase 3: Advanced Data Structures & Algorithms
+### Phase 3: Advanced Data Structures & Algorithms *(In Progress)*
 - [ ] Algorithmic Big-O time and space complexity modeling
 - [ ] Memory-managed Pointer Structures: Singly & Doubly Linked Lists
 - [ ] Empirical benchmarking of classic Sorting Engines (Merge, Quick, Insertion, Bubble)
