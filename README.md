@@ -20,8 +20,8 @@ A rigorous, deep dive into core software architecture, foundational mathematics,
 - [x] Singular Value Decomposition (SVD) & Principal Component Analysis (PCA)
 
 ### Phase 3: Advanced Data Structures & Algorithms *(In Progress)*
-- [ ] Algorithmic Big-O time and space complexity modeling
-- [ ] Memory-managed Pointer Structures: Singly & Doubly Linked Lists
+- [x] Algorithmic Big-O time and space complexity modeling
+- [x] Memory-managed Pointer Structures: Singly & Doubly Linked Lists
 - [ ] Empirical benchmarking of classic Sorting Engines (Merge, Quick, Insertion, Bubble)
 - [ ] Non-linear Topologies: Binary Search Trees (BST), Heaps, and Tries
 - [ ] Graph Architectures: Adjacency structures, BFS/DFS, and Dijkstra’s Shortest Path
